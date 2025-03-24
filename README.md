@@ -17,6 +17,7 @@ Além disso, você precisará de um banco de dados MySQL em execução. Caso nã
 ### 1. Clone o repositório
 
 git clone https://github.com/Diogoflowers/backend-fakestore
+
 cd backend-fakestore
 
 ### 2. Criar arquivo .env
@@ -24,7 +25,6 @@ cd backend-fakestore
 DATABASE_URL="mysql://USER:PASSWORD@localhost:PORT/DB"
 
 JWT_SECRET="SUA SENHA DO TOKEN"
-
 
 
 ### 2. Rode os códigos no terminal
@@ -35,7 +35,7 @@ npx prisma generate
 
 npx prisma migrate dev --name init
 
-### 2. Inicie o projeto
+### 3. Inicie o projeto
 
 src/node.js
 
