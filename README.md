@@ -47,6 +47,19 @@ O servidor estará rodando em http://localhost:3001 (ou na porta configurada no 
 
 
 
+###FUNÇÕES
+
+Botão Gerar Lista: 
+Ao clicar no botão é consumida a APIRest FAKESTORE filtrado os dados e salvo no banco de dados.
+
+Botão Importar CSV:
+Ao clicar no botão é possível inserir um arquivo CSV para salvar no banco de dados e renderizar na tela, desde que contenha os cabeçalhos e linhas corretos!
+
+Botão Exportar CSV:
+Ao clicar no botão é realizado o download da lista de produtos localizado no banco de dados do usuário em formato de CSV. 
+
+
+
 ### OBSERVAÇÕES
 
 Para a importação do CSV funcionar corretamente, o arquivo CSV deve conter os cabeçalhos: Title, Price, Description, Image e Rate.
@@ -62,7 +75,8 @@ CSV para testes de ERRO:
 [erro-de-header.csv](https://github.com/user-attachments/files/19413684/erro-de-header.csv)
 
 
-[erro-de-linhas.csv](https://github.com/user-attachments/files/19413687/erro-de-linhas.csv)
+[erro-de-linhas.csv](https://github.com/user-attachments/files/19413692/erro-de-linhas.csv)
+
 
 
 
