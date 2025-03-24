@@ -51,11 +51,19 @@ O servidor estará rodando em http://localhost:3001 (ou na porta configurada no 
 
 Para a importação do CSV funcionar corretamente, o arquivo CSV deve conter os cabeçalhos: Title, Price, Description, Image e Rate.
 
-CSV para testes:
+CSV para testes de SUCESSO:
+
 [celulares.csv](https://github.com/user-attachments/files/19413670/celulares.csv)
 
-
 [notebooks.csv](https://github.com/user-attachments/files/19413672/notebooks.csv)
+
+CSV para testes de ERRO:
+
+[erro-de-header.csv](https://github.com/user-attachments/files/19413684/erro-de-header.csv)
+
+
+[erro-de-linhas.csv](https://github.com/user-attachments/files/19413687/erro-de-linhas.csv)
+
 
 
 
