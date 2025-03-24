@@ -47,7 +47,7 @@ O servidor estará rodando em http://localhost:3001 (ou na porta configurada no 
 
 
 
-###FUNÇÕES
+### FUNÇÕES
 
 Botão Gerar Lista: 
 Ao clicar no botão é consumida a APIRest FAKESTORE filtrado os dados e salvo no banco de dados.
