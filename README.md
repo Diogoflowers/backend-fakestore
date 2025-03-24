@@ -1,4 +1,4 @@
-[celulares.csv](https://github.com/user-attachments/files/19413512/celulares.csv)🛠️ Pré-requisitos
+(https://github.com/user-attachments/files/19413512/celulares.csv)🛠️ Pré-requisitos
 Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 
 Node.js (versão 14 ou superior recomendada)
@@ -60,9 +60,11 @@ Ou, se preferir:
 
 node src/index.js
 
-O servidor estará rodando em http://localhost:3001 (ou na porta configurada no seu ambiente).[UpTitle,Price,Description,Image,Rate
-"iphone",12.99,"descrição de teste","https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MA7F4?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1723162550519",3.6
-"xiomi",35,"xiaomi de teste","https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRt7jRishlHhD0_lOMkFPz7IWw2Yf1hsKfmTdL4g8nDPPKRCQOyBJVuoZjKsFU1chSpu1QAA0AEUjX8hil1BOn6O6iUYlYWb3LW2Gj6SsrQLNYkg6IvrK9g",4.9
-"motorola",44.55,"descrição de teste","https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRg7HoC5eACbaqzWPbRBb0VM8N6ILFv12ZrmJ3uUx0E5QGLQQBtQjgXkBdcXzTlh5c4q861a9ab9bTQ_cTJ2abFD7Ds1QLWDUOR5apC4hhb4yepAAODNyxG",5
-"samsung 23",23,"descrição de teste","https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQECqMYSg5U7EXmYM0kuTPaIS83zYlauya_IEpAp-sZRC-cZ51cq9MSsScdedEB2CxTuOo99NeB6H-56BIARU8O6JXdPrUtLoHnNTvHZBPXxJL-vKOE5SVZ4Q",3.6loading celulares.csv…]()
+O servidor estará rodando em http://localhost:3001 (ou na porta configurada no seu ambiente).
+
+
+
+arquivo CSV PARA TESTE:
+
+[celulares.csv]
 
