@@ -1,6 +1,3 @@
-🛒 FakeStore API
-Projeto backend desenvolvido utilizando Node.js, Prisma, MySQL e JavaScript. Esta API simula uma loja online fictícia, fornecendo endpoints para gerenciar produtos, usuários, pedidos e autenticação.
-
 🛠️ Pré-requisitos
 Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 
@@ -13,13 +10,13 @@ Git (opcional, mas recomendado para clonar o repositório)
 📥 Instalação
 Siga os passos abaixo para configurar e executar o projeto localmente.
 
-1. Clone o repositório
+### 1. Clone o repositório
 
 git clone https://github.com/Diogoflowers/backend-fakestore
 
 cd backend-fakestore
 
-2. Configure o arquivo .env
+### 2. Configure o arquivo .env
 
 Crie um arquivo .env na raiz do projeto e adicione as seguintes variáveis de ambiente:
 PORT = 3001
@@ -38,12 +35,12 @@ NOME_DO_BANCO: O nome do banco de dados que você deseja usar.
 
 SUA_CHAVE_SECRETA_PARA_JWT: Uma chave secreta para assinar tokens JWT.
 
-3. Instale as dependências
+### 3. Instale as dependências
 Execute o seguinte comando para instalar as dependências do projeto:
 
 npm install
 
-4. Configure o Prisma
+### 4. Configure o Prisma
 Gere o cliente do Prisma e aplique as migrações ao banco de dados:
 
 npx prisma generate
@@ -54,7 +51,7 @@ npx prisma generate: Gera o cliente Prisma com base no schema.
 
 npx prisma migrate dev --name init: Executa as migrações para criar as tabelas no banco de dados.
 
-5. Inicie o servidor
+### 5. Inicie o servidor
 Para rodar o projeto, execute:
 
 npm start
